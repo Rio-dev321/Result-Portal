@@ -1,0 +1,5 @@
+streamlit>=1.41.0
+pandas>=2.2.0
+requests>=2.32.0
+pdfplumber>=0.11.0
+groq>=0.13.0
